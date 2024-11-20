@@ -2,9 +2,7 @@
 ### Technical Specifications
 + Java with Spring Boot,
 + Spring Data JPA with Hibernate,
-+ Spring Web,
-+ Lombok,
-+ Used H2 in-memory database.
++ H2 in-memory database.
 
 ### Implemented API endpoints:
 
