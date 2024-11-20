@@ -39,7 +39,7 @@
 3. Unzip and open this project in the IDE mentioned.
 4. Make sure you are connected to Internet, to download the Maven dependencies required for this project.
 5. After indexing and dependencies have been downloaded, if any pop up comes up to install any plugins to run this project, do install them, i.e, for this project - **Lombox** is the external plugin.
-6. Look under the project structure to the left, and under /tasks/src/main/java/com.maverick.tasks/ - run/build the **TasksApplication**.java file.
+6. Look under the project structure to the left, and under /{file-name}/src/main/java/com.maverick.tasks/ - run/build the **TasksApplication**.java file.
 7. After step-6, the app will start running at **localhost:8080** port and access this port on your browser or a API client like **Postman**(tested with this).
 8. Now one by one, test the endpoints for functioning of the API. 
 
